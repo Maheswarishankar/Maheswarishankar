@@ -1,6 +1,6 @@
 <img  src="https://tse3.mm.bing.net/th?id=OIP.EIa40rH0mfq4C2NwH7rfCwHaHa&pid=Api&P=0&h=180" alt="img"/>
 
-<h1 align="center">Hi 👋, I'm Maheshwari.S</h1>
+<h1 align="center">Hi 👋, I'm Maheswari.S</h1>
 - 💬 Ask me about **Javascript,React,MongoDB,MySQL,Node**
 
 - 📫 How to reach me **mahi.nawins@gmail.com**
