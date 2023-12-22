@@ -8,7 +8,7 @@
 - 📫 How to reach me 
 - **www.linkedin.com/in/maheswari08**
 
-<h3 align="left">Connect with me:mahi.nawins@gmail.com</h3>
+<h4 align="left">Connect with me:Ⓜ️mahi.nawins@gmail.com/h4>
 <p align="left">
 </p>
 
