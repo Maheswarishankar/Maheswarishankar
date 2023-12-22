@@ -5,10 +5,10 @@
      Boostrap,React,Redux,MongoDB,MySQL,
      Nodejs,ExpressJs,MaterialUI,Postman,**
 
-- 📫 How to reach me **mahi.nawins@gmail.com**
+- 📫 How to reach me 
 - **www.linkedin.com/in/maheswari08**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:**mahi.nawins@gmail.com**</h3>
 <p align="left">
 </p>
 
