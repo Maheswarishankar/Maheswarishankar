@@ -1,10 +1,9 @@
 <img  src="https://tse1.mm.bing.net/th?id=OIP.jcNKpp7EzGk3qXlk0EHbfAHaC_&pid=Api&P=0&h=180" alt="img"/>
 
 <h1 align="center">Hi 👋, I'm Maheswari.S</h1>
-- 💬 Ask me about **HTML,CSS,Javascript 
+- 💬 <b>Ask me about</b>: ****HTML,CSS,Javascript 
      Boostrap,React,Redux,MongoDB,MySQL,
-     Nodejs,ExpressJs,MaterialUI,Postman,**
-     
+     Nodejs,ExpressJs,MaterialUI,Postman,** **    
 
 - 📫 How to reach me : **www.linkedin.com/in/maheswari08**
 - <h4 align="left">Connect with me: Ⓜ️mahi.nawins@gmail.com
