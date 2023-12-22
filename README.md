@@ -1,4 +1,4 @@
-<img  src="[https://tse3.mm.bing.net/th?id=OIP.EIa40rH0mfq4C2NwH7rfCwHaHa&pid=Api&P=0&h=180](https://tse1.mm.bing.net/th?id=OIP.jcNKpp7EzGk3qXlk0EHbfAHaC_&pid=Api&P=0&h=180)" alt="img"/>
+<img  src="https://tse1.mm.bing.net/th?id=OIP.jcNKpp7EzGk3qXlk0EHbfAHaC_&pid=Api&P=0&h=180" alt="img"/>
 
 <h1 align="center">Hi 👋, I'm Maheswari.S</h1>
 - 💬 Ask me about **Javascript,React,MongoDB,MySQL,Node**
