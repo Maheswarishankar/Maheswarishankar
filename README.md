@@ -1,7 +1,7 @@
 <img  src="https://tse1.mm.bing.net/th?id=OIP.jcNKpp7EzGk3qXlk0EHbfAHaC_&pid=Api&P=0&h=180" alt="img"/>
 
 <h1 align="center">Hi 👋, I'm Maheswari.S</h1>
-- 💬 Ask me about **Javascript,React,MongoDB,MySQL,Node**
+- 💬 Ask me about **HTML,CSS,Javascript Boostrap,React,Redux,MongoDB,MySQL,Nodejs,ExpressJs,MaterialUI,Postman,**
 
 - 📫 How to reach me **mahi.nawins@gmail.com**
 
